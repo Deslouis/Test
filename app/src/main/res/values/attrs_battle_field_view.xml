@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="BattleFieldView">
+        <attr name="myDrawable" format="color|reference" />
+    </declare-styleable>
+</resources>

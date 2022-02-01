@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="MovementImageView">
+        <attr name="exampleDrawable" format="color|reference" />
+    </declare-styleable>
+</resources>
